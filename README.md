@@ -1,1 +1,1 @@
-# SinesHydro.github.io
+# HydroGeoSines.github.io
